@@ -136,15 +136,15 @@ a{
 
 
 .content{         /* css das imagens*/
-  height: 720px;
+  height: 96vh;
   width: 100%;
   overflow: hidden;
 }
 
 .navegação{
   position: absolute;
-  bottom: 45px;
-  left: 50%;
+  bottom: 1%;
+  left: 46%;
   display: flex;
 }
 .redondo{
